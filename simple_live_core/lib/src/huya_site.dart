@@ -228,7 +228,7 @@ class HuyaSite implements LiveSite {
   Future<String> getPlayUrl(HuyaLineModel line, int bitRate) async {
     var antiCode = await getCndTokenInfoEx(line.streamName);
     antiCode = buildAntiCode(line.streamName, line.presenterUid, antiCode);
-    var url = '${line.line}/${line.streamName}.flv?${antiCode}&codec=264';
+    var url = '${line.line}/${line.streamName}.flv?$antiCode&codec=264';
     if (bitRate > 0) {
       url += "&ratio=$bitRate";
     }
