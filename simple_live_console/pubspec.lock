@@ -102,7 +102,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9d0228880aab0eb8a3802d2d6b2058cf2a0afc7e"
+      resolved-ref: "5d56e52de900180b4a198397b4af902272247e3b"
       url: "https://github.com/xiaoyaocz/dart_quickjs"
     source: git
     version: "1.0.0"
@@ -254,8 +254,8 @@ packages:
     dependency: transitive
     description:
       path: "packages/native_toolchain_c"
-      ref: "9d0228880aab0eb8a3802d2d6b2058cf2a0afc7e"
-      resolved-ref: "9d0228880aab0eb8a3802d2d6b2058cf2a0afc7e"
+      ref: "5d56e52de900180b4a198397b4af902272247e3b"
+      resolved-ref: "5d56e52de900180b4a198397b4af902272247e3b"
       url: "https://github.com/xiaoyaocz/dart_quickjs"
     source: git
     version: "0.17.4"
@@ -453,10 +453,10 @@ packages:
     dependency: transitive
     description:
       name: watcher
-      sha256: "592ab6e2892f67760543fb712ff0177f4ec76c031f02f5b4ff8d3fc5eb9fb61a"
+      sha256: f52385d4f73589977c80797e60fe51014f7f2b957b5e9a62c3f6ada439889249
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.4"
+    version: "1.2.0"
   web:
     dependency: transitive
     description:

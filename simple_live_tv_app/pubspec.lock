@@ -102,7 +102,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9d0228880aab0eb8a3802d2d6b2058cf2a0afc7e"
+      resolved-ref: "5d56e52de900180b4a198397b4af902272247e3b"
       url: "https://github.com/xiaoyaocz/dart_quickjs"
     source: git
     version: "1.0.0"
@@ -118,10 +118,10 @@ packages:
     dependency: "direct main"
     description:
       name: device_info_plus
-      sha256: dd0e8e02186b2196c7848c9d394a5fd6e5b57a43a546082c5820b1ec72317e33
+      sha256: "4df8babf73058181227e18b08e6ea3520cf5fc5d796888d33b7cb0f33f984b7c"
       url: "https://pub.dev"
     source: hosted
-    version: "12.2.0"
+    version: "12.3.0"
   device_info_plus_platform_interface:
     dependency: transitive
     description:
@@ -341,10 +341,10 @@ packages:
     dependency: transitive
     description:
       name: image
-      sha256: "4e973fcf4caae1a4be2fa0a13157aa38a8f9cb049db6529aa00b4d71abc4d928"
+      sha256: "51555e36056541237b15b57afc31a0f53d4f9aefd9bd00873a6dc0090e54e332"
       url: "https://pub.dev"
     source: hosted
-    version: "4.5.4"
+    version: "4.6.0"
   intl:
     dependency: "direct main"
     description:
@@ -445,10 +445,10 @@ packages:
     dependency: "direct main"
     description:
       name: media_kit
-      sha256: dfd5ab85d49a1806b1314a0b81f3d14da48f0db0a657336b2d77c5f17db28944
+      sha256: ae9e79597500c7ad6083a3c7b7b7544ddabfceacce7ae5c9709b0ec16a5d6643
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.2"
+    version: "1.2.6"
   media_kit_libs_android_video:
     dependency: transitive
     description:
@@ -533,8 +533,8 @@ packages:
     dependency: transitive
     description:
       path: "packages/native_toolchain_c"
-      ref: "9d0228880aab0eb8a3802d2d6b2058cf2a0afc7e"
-      resolved-ref: "9d0228880aab0eb8a3802d2d6b2058cf2a0afc7e"
+      ref: "5d56e52de900180b4a198397b4af902272247e3b"
+      resolved-ref: "5d56e52de900180b4a198397b4af902272247e3b"
       url: "https://github.com/xiaoyaocz/dart_quickjs"
     source: git
     version: "0.17.4"
@@ -606,10 +606,10 @@ packages:
     dependency: transitive
     description:
       name: path_provider_foundation
-      sha256: "97390a0719146c7c3e71b6866c34f1cde92685933165c1c671984390d2aca776"
+      sha256: "6d13aece7b3f5c5a9731eaf553ff9dcbc2eff41087fd2df587fd0fed9a3eb0c4"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.4"
+    version: "2.5.1"
   path_provider_linux:
     dependency: transitive
     description:
@@ -897,10 +897,10 @@ packages:
     dependency: transitive
     description:
       name: uri_parser
-      sha256: ff4d2c720aca3f4f7d5445e23b11b2d15ef8af5ddce5164643f38ff962dcb270
+      sha256: "051c62e5f693de98ca9f130ee707f8916e2266945565926be3ff20659f7853ce"
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.0"
+    version: "3.0.2"
   url_launcher:
     dependency: "direct main"
     description:
@@ -993,10 +993,10 @@ packages:
     dependency: transitive
     description:
       name: volume_controller
-      sha256: d75039e69c0d90e7810bfd47e3eedf29ff8543ea7a10392792e81f9bded7edf5
+      sha256: "5c1a13d2ea99d2f6753e7c660d0d3fab541f36da3999cafeb17b66fe49759ad7"
       url: "https://pub.dev"
     source: hosted
-    version: "3.4.0"
+    version: "3.4.1"
   wakelock_plus:
     dependency: "direct main"
     description:
